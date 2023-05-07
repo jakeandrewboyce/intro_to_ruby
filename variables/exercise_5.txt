@@ -1,0 +1,6 @@
+In the first case, x will print 3. This is because x is a variable defined
+outside of the scope of the block that follows the 'times' method.
+
+In the second case, printing x will give an error. That is because x is a
+local variable within the block that follows 'times'. It cannot be accessed
+outside of the block when we try to 'puts x'.
