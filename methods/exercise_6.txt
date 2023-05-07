@@ -1,0 +1,2 @@
+The error message tells us that only one argument was used when two were
+expected.
