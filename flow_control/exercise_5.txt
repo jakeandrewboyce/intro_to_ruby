@@ -1,0 +1,1 @@
+We get this error because we forgot to provide the 'end' keyword to end the if/else block of code. Typing this one line above the 'end' that is already there will fix this.
