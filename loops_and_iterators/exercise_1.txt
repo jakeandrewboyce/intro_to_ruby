@@ -1,0 +1,2 @@
+The each method returns the array that is was called to act upon.
+[1, 2, 3, 4, 5]
