@@ -1,0 +1,1 @@
+We get this error because we wrote block as a variable parameter in the definition of execute. When we call execute on line 5, we do so without the use of any arguments, when we're expected to use one as defined in the method's definition. We meant to use a '&' that allows a block to be used as a parameter.
