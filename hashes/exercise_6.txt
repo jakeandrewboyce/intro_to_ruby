@@ -1,0 +1,3 @@
+my_hash was created with the symbol :x as the key, whereas my_hash2 was created with the variable x, which holds the string "hi there" as the key.
+
+If you were to print out my_hash2 to the console, the key would show up as "hi there"
