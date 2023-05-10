@@ -1,0 +1,5 @@
+1. returns 3
+
+2. returns error
+
+3. returns 8
